@@ -27,7 +27,7 @@ function Login() {
               Create a new account
             </div>
             <div
-              className="mt-6 border-white/40 border px-20 py-2 text-sm  flex items-center text-[#CCCCCC] rounded-lg cursor-pointer"
+              className="mt-6 border-white/40 border px-20 py-2 text-sm  flex items-center text-[#CCCCCC] rounded-sm cursor-pointer"
               onClick={handleGoogleLogin} // Call handleGoogleLogin function onClick
             >
               <img src={google} alt="google" className="w-4 mr-3"></img>
@@ -37,7 +37,7 @@ function Login() {
           <div className="">
             <Link
               to="/login" 
-              className="bg-gradient-to-r from-[#4B63DD] to-[#0524BFFC] mx-16 mt-5 px-6 text-sm py-3 rounded-md cursor-pointer"
+              className="bg-gradient-to-r from-[#4B63DD] to-[#0524BFFC] mx-16 mt-5 px-6 text-sm py-3 rounded-sm cursor-pointer"
             >
               Create an Account
             </Link>

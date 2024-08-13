@@ -20,7 +20,7 @@ function ThemeToggle() {
                 ) : (
                     <FaMoon className="mr-2" />
                 )}
-                <span>Toggle Theme</span>
+                <span></span>
             </button>
         </div>
     );
