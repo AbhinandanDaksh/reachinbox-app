@@ -115,12 +115,12 @@ function CustomMail({ threadId, onClose }) {
           />
         </div>
 
-        <div className="flex space-x-8 items-center h-16 ml-8">
+        <div className="flex space-x-8 items-center h-20 ml-8">
           <div
             className="bg-gradient-to-r from-[#4B63DD] to-[#0524BFFC] px-5 py-2 rounded-md flex items-center cursor-pointer"
             onClick={handleSendReply}
           >
-            Send <FaCaretDown className="ml-4" />
+            Send<FaCaretDown className="ml-4" />
           </div>
           <div className="flex items-center text-[#ADADAD]">
             <BsLightningChargeFill className="mr-3" />
