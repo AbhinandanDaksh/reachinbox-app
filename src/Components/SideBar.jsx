@@ -43,7 +43,7 @@ function SideBar({ onMenuItemClick }) {
         </div>
       </div>
       <div className="text-white bg-green-500 p-2 rounded-full">
-        PS
+        AD
       </div>
     </div>
   );
