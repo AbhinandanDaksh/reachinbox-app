@@ -8,7 +8,7 @@ function RightSection() {
       <div className="px-6 my-10 space-y-6 dark:text-white text-[#637381]">
         <div className="flex justify-between text-sm">
           <div className="">Name</div>
-          <div className="dark:text-[#B9B9B9]">Orlando</div>
+          <div className="dark:text-[#B9B9B9]">xyz</div>
         </div>
         <div className="flex justify-between text-sm">
           <div>Contact No</div>
@@ -16,11 +16,11 @@ function RightSection() {
         </div>
         <div className="flex justify-between text-sm">
           <div>Email ID</div>
-          <div className="dark:text-[#B9B9B9]">orlando@gmail.com</div>
+          <div className="dark:text-[#B9B9B9]">xyz@gmail.com</div>
         </div>
         <div className="flex justify-between text-sm">
           <div>Linkedin</div>
-          <div className="dark:text-[#B9B9B9]">linkedin.com/in/timvadde/</div>
+          <div className="dark:text-[#B9B9B9]">linkedin.com/in/reachinbox/</div>
         </div>
         <div className="flex justify-between text-sm">
           <div>Company Name</div>
