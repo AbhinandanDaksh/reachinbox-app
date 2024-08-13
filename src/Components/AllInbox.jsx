@@ -23,9 +23,9 @@ function AllInbox({ data, loadMail }) {
   }
 
   return (
-    <div className="border-r-2 bg-[#FAFAFA] dark:bg-black dark:dark:border-[#33383F] border-[#E0E0E0] h-full overflow-y-scroll no-scrollbar">
+    <div className="border-r-2 bg-[#FAFAFA] dark:bg-black dark:dark:border-[#33383F] border-[#E0E0E0]  h-full overflow-y-scroll no-scrollbar">
       <div className="px-4 pt-4 flex justify-between">
-        <div className="px-4">
+        <div className="px-4 ">
           <div className="text-2xl py-3 text-[#4285F4] font-semibold flex items-center">
             All Inbox(s){" "}
             <FaAngleDown className="ml-2 font-normal mt-1 cursor-pointer" />
@@ -58,7 +58,7 @@ function AllInbox({ data, loadMail }) {
             </span>{" "}
             New Replies
           </div>
-          <div className="flex items-center dark:text-white text-black">
+          <div className="flex items-center dark:text-white text-black ">
             Newest <FaAngleDown className="ml-3 text-xl" />
           </div>
         </div>
