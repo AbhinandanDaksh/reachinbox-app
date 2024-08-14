@@ -8,7 +8,7 @@ This repository contains the implementation of the ReachInbox Assignment. The pr
    - Implements user authentication with a provided design.
    - Redirects to the onebox screen upon successful login.
 
-3. **Onebox Screen**
+2. **Onebox Screen**
 
    Data Fetching:
    
@@ -18,19 +18,19 @@ This repository contains the implementation of the ReachInbox Assignment. The pr
    
    Keyboard Shortcuts:
 
-      Press D to delete a thread.
-      Press R to open the reply box.
+      - Press D to delete a thread.
+      - Press R to open the reply box.
 
    Custom Text Editor:
 
-      A custom text editor is provided with added "SAVE" and "Variables" buttons.
+      - A custom text editor is provided with added "SAVE" and "Variables" buttons.
 
    Reply Functionality:
-      Allows users to send a reply using the POST /reply/:thread_id API endpoint.
+      - Allows users to send a reply using the POST /reply/:thread_id API endpoint.
 
 
    Light and Dark Mode:
-      The application supports both light and dark modes, allowing users to switch between them.
+      - The application supports both light and dark modes, allowing users to switch between them.
 
 ## Installation
 
