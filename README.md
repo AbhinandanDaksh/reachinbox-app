@@ -5,8 +5,8 @@ This repository contains the implementation of the ReachInbox Assignment. The pr
 ### Features
 
 1. **Login Page**
--The login page is implemented using the provided design.
--Upon successful login, users are redirected to the onebox screen.
+   - Implements user authentication with a provided design.
+   - Redirects to the onebox screen upon successful login.
 
 3. **Onebox Screen**
 
