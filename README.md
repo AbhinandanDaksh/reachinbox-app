@@ -48,7 +48,7 @@ Run the application:
 
 
 ## API Documentation
-The API documentation is available here.
+The API documentation is available [here][running tests](https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27).
 
 ## Design File
-The design for the application can be viewed here.
+The design for the application can be viewed [here](https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design).
