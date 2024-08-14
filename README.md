@@ -12,9 +12,9 @@ This repository contains the implementation of the ReachInbox Assignment. The pr
 
    Data Fetching:
    
-      -Fetches data using the /onebox/list API endpoint.
-      -View specific threads using GET /onebox/:thread_id.
-      -Delete threads using DELETE /onebox/:thread_id.
+      - Fetches data using the /onebox/list API endpoint.
+      - View specific threads using GET /onebox/:thread_id.
+      - Delete threads using DELETE /onebox/:thread_id.
    
    Keyboard Shortcuts:
 
