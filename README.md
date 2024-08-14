@@ -52,3 +52,8 @@ The API documentation is available [here](https://documenter.getpostman.com/view
 
 ## Design File
 The design for the application can be viewed [here](https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design).
+
+## Live Demo
+
+Check out the live version of the ReachInbox Assignment here: [Live Demo](https://reachinbox-app-hazel.vercel.app/)
+
