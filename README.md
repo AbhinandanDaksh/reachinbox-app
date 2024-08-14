@@ -36,7 +36,7 @@ This repository contains the implementation of the ReachInbox Assignment. The pr
 
 Clone the repository:
 
-      git clone https://github.com/yourusername/reachinbox-assignment.git
+      git clone https://github.com/AbhinandanDaksh/reachinbox-app.git
 
 Install the required dependencies:
 
