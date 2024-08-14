@@ -4,17 +4,17 @@ This repository contains the implementation of the ReachInbox Assignment. The pr
 
 ### Features
 
-1. Login Page
-   The login page is implemented using the provided design.
-   Upon successful login, users are redirected to the onebox screen.
+1. **Login Page**
+   -The login page is implemented using the provided design.
+   -Upon successful login, users are redirected to the onebox screen.
 
-2. Onebox Screen
+2. **Onebox Screen**
 
    Data Fetching:
    
-      Fetches data using the /onebox/list API endpoint.
-      View specific threads using GET /onebox/:thread_id.
-      Delete threads using DELETE /onebox/:thread_id.
+      -Fetches data using the /onebox/list API endpoint.
+      -View specific threads using GET /onebox/:thread_id.
+      -Delete threads using DELETE /onebox/:thread_id.
    
    Keyboard Shortcuts:
 
